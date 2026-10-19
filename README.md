@@ -23,6 +23,8 @@ Install my-project with npm
 ## Screenshots
 
 ![App Screenshot](https://dummyimage.com/468x300?text=App+Screenshot+Here)
+<img width="399" height="529" alt="image" src="https://github.com/user-attachments/assets/8fa99676-875e-4e67-be65-3a298d51e581" />
+
 
 
 ## Tech Stack
